@@ -1,6 +1,6 @@
 # Newsgyan
 
-It is a web application made using Spring Framework as backend where the user can login and can read newspaper according tho the category selected.
+It is a web application made using Spring Framework as backend where the user can login and can read newspaper according the category selected.
 
 The project has followed a 3-Layered Spring Architecture.
 
